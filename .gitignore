@@ -1,0 +1,24 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directory
+node_modules
+
+# npm cache directory
+.npm
+
+# VSCode
+.vscode
+jsconfig.json
+
+
+# IDEA
+.idea
+
+# OS X
+.DS_Stores
+
+# Public
+public
